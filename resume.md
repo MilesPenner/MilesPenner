@@ -6,7 +6,7 @@
 
 ## Professional Summary
 
-Seasoned software engineer and technical leader with 25+ years of experience at Intel, specializing in Ethernet driver architecture, kernel development, and cross-platform software strategy. Proven track record of leading technical initiatives, influencing executive leadership, and driving innovation across Windows Server, Linux, and embedded systems ecosystems.
+Enthusiastic, empathetic software engineering leader who genuinely loves to solve difficult problems. Over 25+ years of experience at Intel specializing in Ethernet driver architecture, kernel development, and cross-platform software strategy. Proven track record of leading technical initiatives, influencing executive leadership, and driving innovation across Windows Server, Linux, and embedded systems ecosystems.
 
 ---
 
