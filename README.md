@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+How I have fun
+--------------
 Spending time with family, scouting, skiing, and traveling.
+
+Resume
+------
+[Link](resume.md)
