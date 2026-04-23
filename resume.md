@@ -1,6 +1,6 @@
 # Miles Penner
 
-**Portland, OR 97210** | milespenner@gmail.com | 503-317-9957
+**Portland, OR 97210** | milespenner@gmail.com | 503-317-9957 | [LinkedIn](https://www.linkedin.com/in/miles-penner/)
 
 ---
 
@@ -69,6 +69,65 @@ University of Idaho
 
 **Bachelor of Science – Computer Science**  
 Washington State University
+
+---
+
+## Patents and Publications
+
+**DRIVER TO PROVIDE CONFIGURABLE ACCESSES TO A DEVICE**  
+Publication number: 20240119020 | Publication date: April 11, 2024  
+Filed: December 19, 2023  
+Inventors: Kevin C. SCOTT, Miles PENNER
+
+**METHOD AND APPARATUS FOR CONTROLLING SERVICING OF MULTIPLE QUEUES**  
+Publication number: 20230367655 | Publication date: November 16, 2023  
+Filed: July 25, 2023  
+Inventors: Yashaswini Raghuram PRATHIVADI BHAYANKARAM, Kevin C. SCOTT, Miles PENNER, Chinh T. CAO, Deepthi KAVALUR
+
+**Virtualizable and forward-compatible hardware-software interface**  
+Patent number: 9081709 | Date of Patent: July 14, 2015  
+Publication number: 20140229637 | Publication date: August 14, 2014  
+Filed: April 22, 2014  
+Assignee: Intel Corporation  
+Inventors: Eliezer Tamir, Eliel Louzon, Ben-Zion Friedman, Miles J. Penner
+
+**Switch Abstraction Interface**  
+[Open Compute Project](https://www.opencompute.org/projects/sai)  
+GitHub [link](https://github.com/opencomputeproject/SAI)
+
+**Virtualizable and forward-compatible hardware-software interface**  
+Patent number: 8719843 | Date of Patent: May 6, 2014  
+Publication number: 20130031568 | Publication date: January 31, 2013  
+Filed: July 27, 2011  
+Assignee: Intel Corporation  
+Inventors: Eliezer Tamir, Eliel Louzoun, Ben-Zion Friedman, Miles J. Penner  
+
+**ENERGY EFFICIENT DATA TRANSMISSION**  
+Publication number: 20090249096 | Publication date: October 1, 2009  
+Filed: June 12, 2009  
+Inventors: PATRICK CONNER, Yadong Li, William Campbell, Indumathi Madhavan, Miles Penner
+
+**Data transmission at energy efficient rates**  
+Patent number: 7573940 | Date of Patent: August 11, 2009  
+Publication number: 20070127581 | Publication date: June 7, 2007
+Filed: December 7, 2005  
+Assignee: Intel Corporation  
+Inventors: Patrick Connor, Yadong Li, William Campbell, Indumathi Madhavan, Miles Penner
+
+**Non-volatile memory lock**  
+Publication number: 20060143367 | Publication date: June 29, 2006  
+Filed: December 27, 2004  
+Inventors: Scott Dubal, Miles Penner  
+
+**Method and apparatus for the allocation of identifiers**  
+Publication number: 20040210736 | Publication date: October 21, 2004  
+Filed: April 18, 2003  
+Inventors: Linden Minnick, Miles J. Penner  
+
+**Method and apparatus for copy protecting hardware devices**  
+Publication number: 20030065927 | Publication date: April 3, 2003  
+Filed: September 28, 2001  
+Inventor: Miles J. Penner  
 
 ---
 
