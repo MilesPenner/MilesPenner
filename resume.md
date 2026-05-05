@@ -18,8 +18,9 @@ Enthusiastic, empathetic software engineering leader who genuinely loves to solv
 Leading technical strategy for Intel Ethernet product lines with responsibility for kernel driver code, requirements, architecture, and technical direction to planning and marketing teams.
 
 - **IPU & Azure Local**: Influenced executive and architecture leadership across Intel and Microsoft to bring broad market infrastructure offload to the Windows Server market. Led enablement of Azure Linux on embedded ARM cores.
-- **Software Legal Compliance**: Drive software legal compliance for server Intel Ethernet group. Provide guidance to Intel Legal on software contracts, implement compliance policy across product releases, and approvals for open source licensed contributions.
-- **Ethernet Spinout**: Drove software, firmware, security, and legal compliance planning for $2B Ethernet spinout company.
+- **Software Legal Compliance**: Drove software legal compliance actions and automation for the server Intel Ethernet group. Provided guidance to Intel Legal on software contracts, implemented compliance policy across product releases, and approved license strategy for both closed and open source license software programs.
+- **Ethernet Spinout**: Defined and drove software, firmware, security, and legal compliance planning for $2B Ethernet spinout company.
+- **Ethernet Certification**: Drove restructure and alignment of the Server Ethernet Additional Qualifiers for Azure Local to align to NIC usage.
 - **Windows Server NetAdapter**: Drove collaboration with Microsoft on moving Windows Server to NetAdapter framework.
 - **Industry Leadership**: Represent Intel on the Open Programmable Infrastructure Technical Steering Committee.
 - **GenAI Adoption**: Drove GenAI adoption to 80% as AI champion for 4000-person business unit. Delivered Intel GHCP training classes.
