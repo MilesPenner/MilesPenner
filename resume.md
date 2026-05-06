@@ -2,13 +2,9 @@
 
 **Portland, OR 97210** | milespenner@gmail.com | 503-317-9957 | [LinkedIn](https://www.linkedin.com/in/miles-penner/)
 
----
-
 ## Professional Summary
 
-Enthusiastic, empathetic software engineering leader who genuinely loves to solve difficult problems. Over 25+ years of experience at Intel specializing in Ethernet driver architecture, kernel development, and cross-platform software strategy. Proven track record of leading technical initiatives, influencing executive leadership, and driving innovation across Windows Server, Linux, and embedded systems ecosystems.
-
----
+Enthusiastic, empathetic software engineering leader solving difficult technical and strategic problems. Over 25 years of experience at Intel specializing in Ethernet driver architecture, kernel development, and cross-platform software strategy. Proven track record of leading technical initiatives, influencing executive leadership, and driving innovation across Windows Server, Linux, and embedded systems ecosystems.
 
 ## Professional Experience
 
@@ -20,8 +16,8 @@ Leading technical strategy for Intel Ethernet product lines with responsibility 
 - **IPU & Azure Local**: Influenced executive and architecture leadership across Intel and Microsoft to bring broad market infrastructure offload to the Windows Server market. Led enablement of Azure Linux on embedded ARM cores.
 - **Software Legal Compliance**: Drove software legal compliance actions and automation for the server Intel Ethernet group. Provided guidance to Intel Legal on software contracts, implemented compliance policy across product releases, and approved license strategy for both closed and open source license software programs.
 - **Ethernet Spinout**: Defined and drove software, firmware, security, and legal compliance planning for $2B Ethernet spinout company.
-- **Ethernet Certification**: Drove restructure and alignment of the Server Ethernet Additional Qualifiers for Azure Local to align to NIC usage.
-- **Windows Server NetAdapter**: Drove collaboration with Microsoft on moving Windows Server to NetAdapter framework.
+- **Ethernet Certification**: Drove restructure and alignment of the Server Ethernet Additional Qualifiers for Azure Local to align to NIC usage. [link](https://techcommunity.microsoft.com/blog/networkingblog/nic-certification-updates-in-the-windows-server-catalog/3606506)
+- **Windows Server NetAdapter**: Drove collaboration with Microsoft to enable Windows Server to NetAdapterCx framework.
 - **Industry Leadership**: Represent Intel on the Open Programmable Infrastructure Technical Steering Committee.
 - **GenAI Adoption**: Drove GenAI adoption to 80% as AI champion for 4000-person business unit. Delivered Intel GHCP training classes.
 - **Technical Development**: Drove the Technical Leader nomination process for the NEX SW organization of over 800 engineers.
