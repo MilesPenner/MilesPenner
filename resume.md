@@ -68,8 +68,6 @@ Responsible for driving the architecture and engineering of Intel Ethernet and I
 - **Technical Leader Pipeline**: Drove identification and development of software engineers as technical leaders and principal engineers.
 - **Silicon Validation Architecture**: Created and developed multi-OS, layered silicon validation and tools architecture for Intel Ethernet spanning 25 years.
 
----
-
 ## Education
 
 **Master of Science – Computer Science**  
@@ -77,8 +75,6 @@ University of Idaho
 
 **Bachelor of Science – Computer Science**  
 Washington State University
-
----
 
 ## Patents and Publications
 
