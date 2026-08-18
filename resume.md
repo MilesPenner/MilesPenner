@@ -24,14 +24,14 @@ Enthusiastic, empathetic software engineering leader closing the gap between str
 
 Leading technical strategy for Intel Ethernet product lines with responsibility for kernel driver code, requirements, architecture, and technical direction to planning and marketing teams.
 
-- **IPU & Azure Local**: Influenced executive and architecture leadership across Intel and Microsoft to bring broad market infrastructure offload to the Windows Server market. Led enablement of Azure Linux on embedded ARM cores.
-- **Software Legal Compliance**: Drove software legal compliance actions and automation for the server Intel Ethernet group. Provided guidance to Intel Legal on software contracts, implemented compliance policy across product releases, and approved license strategy for both closed and open source license software programs.
+- **Intel Infrastructure Processing Unit (IPU)**: Influenced executive and architecture leadership across Intel and Microsoft to layout infrastructure offload to Windows Server. Led enablement of Azure Linux on IPU embedded ARM cores including device driver architecture, RPC interfaces for internal agents, product  feature roadmapping, and paths to market.
+- **Software Legal Compliance**: Drove software legal compliance actions and automation for the Intel Ethernet group. Provided guidance to Intel Legal on software contracts, implemented compliance policy across product releases, and approved license strategy for both closed and open source license software programs.
 - **Ethernet Spinout**: Defined and drove software, firmware, security, and legal compliance planning for $2B Ethernet spinout company.
 - **Ethernet Certification**: Drove restructure and alignment of the Server Ethernet Additional Qualifiers for Azure Local to align to NIC usage. [link](https://techcommunity.microsoft.com/blog/networkingblog/nic-certification-updates-in-the-windows-server-catalog/3606506)
 - **Windows Server NetAdapter**: Drove collaboration with Microsoft to enable Windows Server to NetAdapterCx framework.
 - **Industry Leadership**: Represent Intel on the Open Programmable Infrastructure Technical Steering Committee.
-- **GenAI Adoption**: Drove GenAI adoption to 80% as AI champion for 4000-person business unit. Delivered Intel GHCP training classes.
-- **Technical Development**: Drove the Technical Leader nomination process for the NEX SW organization of over 800 engineers.
+- **GenAI Adoption**: Drove GenAI adoption to 80% as AI champion for 4000-person business unit. Delivered GitHub CoPilot training classes to Intel engineering teams.
+- **Technical Development**: Drove the Technical Leader nomination process for the software engineering organization of over 800 engineers.
 
 ### Ethernet Software Technologist
 **Intel Corporation** | 2018 - March 2022
@@ -62,9 +62,9 @@ Responsible for driving the architecture and engineering of Intel Ethernet and I
 - **Thunderbolt Software Architect**: Architected security framework for Apple, Linux, and Windows platforms. Led notification, device attach, and peer-to-peer networking security. Supervised 3 engineers on driver and application development for Windows 8+. Presented technology to NSA and GBHQ for national security review.
 - **RDMA Integration**: Drove acquisition integration into Intel Ethernet organization. Expanded RDMA usage beyond HPC ecosystem through Network Direct collaboration.
 - **Crystal Beach (I/O Acceleration)**: Software architect enabling chipset DMA offload for data movement, memory setting, and RAID P+Q operations. Delivered drivers for Linux and Windows.
-- **Direct Cache Access (DCA)**: Software architect for front-side bus and NUMA-aware topologies. Enabled DCA support to deliver increased performance on high-performance workloads.
+- **Direct Cache Access (DCA)**: Software architect for front-side bus and NUMA-aware topologies delivering software optimizations to keep memory "hot" reducing CPU load and increasing bandwidth. Enabled DCA support to deliver increased performance on high-performance workloads.
 - **Stateless Offloads**: Architected RSS, TCP Offload, RSC, NUMA-aware networking, and Data Center Bridging in Windows.
-- **Switch Abstraction Interface (SAI)**: Enabled SAI for Top Of Rack (TOR) Windows-based switches.
+- **Switch Abstraction Interface (SAI)**: Enabled SAI for Top Of Rack (TOR) Windows-based switches. Publication [Open Compute Project](https://www.opencompute.org/projects/sai) GitHub [link](https://github.com/opencomputeproject/SAI)
 - **Technical Leader Pipeline**: Drove identification and development of software engineers as technical leaders and principal engineers.
 - **Silicon Validation Architecture**: Created and developed multi-OS, layered silicon validation and tools architecture for Intel Ethernet spanning 25 years.
 
