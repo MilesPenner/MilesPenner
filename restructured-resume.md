@@ -1,0 +1,115 @@
+# Miles Penner
+
+**Portland, OR 97210** | milespenner@gmail.com | 503-317-9957 | [LinkedIn](https://www.linkedin.com/in/miles-penner/)
+
+## Professional Summary
+
+Enthusiastic, empathetic software engineering leader closing the gap between strategy and engineering execution. Over 25 years of experience specializing in Ethernet architecture, driver architecture, kernel development, and cross-platform software strategy. Proven track record of leading technical initiatives, influencing executive leadership, and building innovative architectures across Windows, Linux, and embedded systems ecosystems.
+
+## Key Expertise
+
+- Ethernet Driver Architecture & Kernel Development
+- Windows Server & Client Operating Systems
+- Linux & Embedded Systems
+- Hardware Acceleration & Offloads
+- Technical Strategy & Leadership
+- Cross-platform Collaboration
+- Open Source & Legal Compliance
+- RDMA, DPDK, Thunderbolt Technologies
+
+## Professional Experience
+
+### Ethernet Software Principal Engineer, Technologist
+**Intel Corporation** | 2018 - April 2026
+
+Lead technical strategy for Intel Ethernet product lines with responsibility for kernel driver code, requirements, architecture, and technical direction to engineering, planning and marketing teams.
+
+- **Intel Infrastructure Processing Unit (IPU)**: Influenced executive and architecture leadership across Intel and Microsoft to layout infrastructure offload to Windows Server. Led enablement of Azure Linux on IPU embedded ARM cores including device driver architecture, RPC interfaces for internal agents, product  feature roadmapping, and paths to market.
+- **Industry Leadership**: Elected member of the Open Programmable Infrastructure Technical Steering Committee representing Intel on the cross-platform open source distribution supporting infrastructure processing units.
+- **Software Legal Compliance**: Drove software legal compliance actions and automation for the Intel Ethernet group. Provided guidance to Intel Legal on software contracts, implemented compliance policy across product releases, and approved license strategy for both closed and open source license software programs.
+- **AI Adoption**: Drove GenAI adoption to 80% as the AI champion for 4000-person business unit. Delivered GitHub CoPilot training classes to Intel engineering teams.
+- **Technical Leader Development**: Drove the Technical Leader nomination process for the software engineering organization of over 800 engineers.
+- **Mentor of the Year 2019**: Awarded by mentees and peers for mentoring and technical guidance.
+- Created and evaluated architecture of new features for Windows drivers, collaborating with Microsoft on technology advancement and roadmapping productization of features for Windows Server and Client including: NDIS Poll Mode, RSSv2, Interrupt refactor, PTPv2, UDP Segmentation, and QUIC offloads into NDIS miniport common product code across Intel Ethernet product lines.
+- Collaborated with Microsoft architects on acceleration for Windows Server networking, SDN, and NFV stacks.
+- **Ethernet Certification**: Drove restructure and alignment of the Server Ethernet Additional Qualifiers for Azure Local to align to NIC usage. [link](https://techcommunity.microsoft.com/blog/networkingblog/nic-certification-updates-in-the-windows-server-catalog/3606506)
+- **Windows Server NetAdapter**: Drove collaboration with Microsoft to enable Windows Server to NetAdapterCx framework.
+- Drove Azure Local enablement (formerly Azure Stack HCI, HUB, and Edge) across Intel Ethernet and Server groups.
+
+### Engineering Manager
+**Intel Corporation** | 2015 - 2018
+
+Managed a team of 10 engineers, prioritized engineering activities, budget, planning, and cross-corporation initiatives.
+
+- Delivered drivers across all Intel Server Ethernet drivers for Windows Server and Client Operating Systems.
+- Led delivery of Intel Ethernet E810 (Columbiaville) 100GbE drivers with RDMA controller to Windows Server ecosystem.
+- Drove DPDK on Windows activities, delivering the native pass-through driver (NetUIO) to Microsoft.
+- Managed delivery and planning for Intel Quick Assist Technology (QAT) crypto and compression in Windows.
+- Collaborated with Microsoft on creating Packet Direct provider interfaces for accelerated Ethernet packet processing.
+
+### Software Engineer, Architect and Technologist
+**Intel Corporation** | 1999 - 2015
+
+Responsible for driving the architecture and engineering of Intel Ethernet and I/O technologies across multiple platforms and product lines.
+
+- **Thunderbolt Software Architect**: Architected Thunderbolt and firmware security framework for Windows, Linux, and Apple platforms. Led notification, device attach, and peer-to-peer networking security. Supervised 3 engineers on driver and application development for Windows. Presented technology to government security agencies national security reviews.
+- **RDMA Integration**: Drove acquisition integration into Intel Ethernet organization. Expanded RDMA usage beyond HPC ecosystem through Network Direct collaboration.
+- **Crystal Beach (I/O Acceleration)**: Software architect enabling chipset DMA offload for data movement, memory setting, and RAID P+Q operations. Delivered drivers for Windows and Linux.
+- **Direct Cache Access (DCA)**: Software architect for front-side bus and NUMA-aware topologies delivering software optimizations to keep memory "hot" reducing CPU load and increasing bandwidth. Enabled DCA support to deliver increased performance on high-performance workloads. Collaborated with Intel stakeholders on creation of PCI Express TLP Processor Hints (TPH).
+- **Stateless Offloads**: Architected and collaborated on RSS, TCP Offload, RSC, NUMA-aware networking, and Data Center Bridging cabilitieis in Windows.
+- **Switch Abstraction Interface (SAI)**: Enabled SAI for Top Of Rack (TOR) Windows-based switches. Publication [Open Compute Project](https://www.opencompute.org/projects/sai) GitHub [link](https://github.com/opencomputeproject/SAI)
+- **Technical Leader Pipeline**: Drove identification and development of software engineers as technical leaders and principal engineers.
+- **Silicon Validation Debug Tools Architecture**: Created and developed multi-OS, layered silicon validation and debug tools architecture for Intel Ethernet spanning 25 years.
+
+## Education
+
+**Master of Science – Computer Science**  
+University of Idaho
+
+**Bachelor of Science – Computer Science**  
+Washington State University
+
+## Patents and Publications
+
+**DRIVER TO PROVIDE CONFIGURABLE ACCESSES TO A DEVICE**  
+Publication number: 20240119020 | Publication date: April 11, 2024 | Filed: December 19, 2023  
+Inventors: Kevin C. SCOTT, Miles PENNER
+
+**METHOD AND APPARATUS FOR CONTROLLING SERVICING OF MULTIPLE QUEUES**  
+Publication number: 20230367655 | Publication date: November 16, 2023 | Filed: July 25, 2023  
+Inventors: Yashaswini Raghuram PRATHIVADI BHAYANKARAM, Kevin C. SCOTT, Miles PENNER, Chinh T. CAO, Deepthi KAVALUR
+
+**Virtualizable and forward-compatible hardware-software interface**  
+Patent number: 9081709 | Date of Patent: July 14, 2015  
+Publication number: 20140229637 | Publication date: August 14, 2014 | Filed: April 22, 2014  
+Inventors: Eliezer Tamir, Eliel Louzon, Ben-Zion Friedman, Miles J. Penner
+
+**Switch Abstraction Interface** (Publication)  
+[Open Compute Project](https://www.opencompute.org/projects/sai) GitHub [link](https://github.com/opencomputeproject/SAI)
+
+**Virtualizable and forward-compatible hardware-software interface**  
+Patent number: 8719843 | Date of Patent: May 6, 2014  
+Publication number: 20130031568 | Publication date: January 31, 2013 | Filed: July 27, 2011  
+Inventors: Eliezer Tamir, Eliel Louzoun, Ben-Zion Friedman, Miles J. Penner  
+
+**ENERGY EFFICIENT DATA TRANSMISSION**  
+Publication number: 20090249096 | Publication date: October 1, 2009 | Filed: June 12, 2009  
+Inventors: PATRICK CONNER, Yadong Li, William Campbell, Indumathi Madhavan, Miles Penner
+
+**Data transmission at energy efficient rates**  
+Patent number: 7573940 | Date of Patent: August 11, 2009  
+Publication number: 20070127581 | Publication date: June 7, 2007 | Filed: December 7, 2005  
+Inventors: Patrick Connor, Yadong Li, William Campbell, Indumathi Madhavan, Miles Penner
+
+**Non-volatile memory lock**  
+Publication number: 20060143367 | Publication date: June 29, 2006 | Filed: December 27, 2004  
+Inventors: Scott Dubal, Miles Penner  
+
+**Method and apparatus for the allocation of identifiers**  
+Publication number: 20040210736 | Publication date: October 21, 2004 | Filed: April 18, 2003  
+Inventors: Linden Minnick, Miles J. Penner  
+
+**Method and apparatus for copy protecting hardware devices**  
+Publication number: 20030065927 | Publication date: April 3, 2003 | Filed: September 28, 2001  
+Inventor: Miles J. Penner  
+
