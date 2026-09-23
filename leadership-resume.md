@@ -6,13 +6,13 @@ Portland, OR | [milespenner@gmail.com](mailto:milespenner@gmail.com) | 503-317-9
 
 ## ENGINEERING LEADERSHIP
 
-Hands-on engineering leader with **25+ years building software, leading engineering teams, and developing technical leaders** across systems, networking, operating systems, and hardware/software platforms.
+Hands-on engineering leader with **25+ years building software, leading engineering teams, developing technical leaders, and translating customer and partner needs into successful product** strategies across systems, networking, operating systems, and hardware/software platforms.
 
-I combine deep engineering expertise with a passion for **multiplying the effectiveness of other engineers**: turning ambiguous problems into clear technical direction, coaching engineers toward greater ownership, building strong technical leaders, and creating solutions that allow teams to move faster.
+I combine **deep engineering expertise with a customer-focused leadership style**: listening to customer and partner needs, turning ambiguous problems into clear technical direction, and guiding teams toward solutions that deliver measurable product and business value.
 
 Experienced leading both through **formal management and technical influence**, including management of a 10-person engineering team, development of technical-leader pipelines across an 800+ engineer organization, executive-level technical strategy, and cross-company engineering initiatives.
 
-Active engineer and architect with hands-on experience in **C/C++, kernel development, networking, distributed systems interfaces, developer tooling, and hardware/software architecture**.
+Active engineer and architect with hands-on experience in **C/C++, kernel development, networking, distributed systems interfaces, developer tooling, and hardware/software architecture**. Major focus points on kernel level performance through I/O high speed paths, interrupt vs poll optimization, meta-data usage, and concurrent processor utilization of devices.
 
 ### What I Bring
 
@@ -22,7 +22,8 @@ Active engineer and architect with hands-on experience in **C/C++, kernel develo
 * **High-ownership execution:** Comfortable taking ambiguous technical problems from initial concept through architecture, implementation, validation, and productization.
 * **Technical strategy:** Translate complex technology into product strategy, roadmaps, engineering priorities, and executive decisions.
 * **Cross-functional influence:** Work effectively across engineering, product planning, architecture, marketing, Microsoft, open-source communities, and executive leadership.
-* **Systems expertise:** kernel development, Windows, Linux, networking, RDMA, DPDK, Ethernet, distributed systems interfaces, and hardware/software architecture.
+* **Customer-centered technical leadership:** Represent engineering directly with customers and OEMs, resolve complex technical issues, evaluate feature requests, and translate customer priorities into product and architecture decisions.
+* **Systems expertise:** kernel development, Windows, Linux, networking, RDMA, DPDK, Ethernet, distributed systems interfaces, and hardware/software architecture. Key focus areas on I/O performance of kernel high speed paths, interrupt and polling trade-offs, and device usage across concurrent processor data flows.
 * **Developer leverage:** Build abstractions, tools, frameworks, and engineering practices that allow teams to solve problems faster and at greater scale.
 
 # PROFESSIONAL EXPERIENCE
@@ -39,10 +40,12 @@ Worked across engineering, architecture, product planning, marketing, Microsoft,
 
 **Engineering Leadership & Team Development**
 
-* Drove the **Technical Leader nomination and development process for an 800+ engineer software organization**, helping identify and develop engineers capable of operating as technical leaders and future Principal Engineers.
+* **Represented engineering in customer and OEM engagements**, resolving technical issues, evaluating feature requests, shaping architectural discussions, addressing software legal matters, and aligning product direction with customer needs.
+* Defined and drove the **Technical Leader development program across an 800+ engineer organization**, establishing the pipeline and evaluation process that developed over 20 new technical leaders and potential future Principal Engineers.
 * Served as a technical mentor across engineering organizations; received **Intel Mentor of the Year (2019)** recognition from mentees and peers.
 * Led through influence across large, distributed organizations, helping engineers and architects reach technical decisions without relying solely on organizational authority.
 * Partnered with engineering leadership to evaluate architecture, technical tradeoffs, product priorities, and paths to productization.
+* Optimized 200GbE+ I/O data paths by analyzing interrupt/polling tradeoffs, metadata availability, processor concurrency, and memory locality across kernel and device access paths.
 
 **Technical Strategy & Product Development**
 
@@ -50,16 +53,14 @@ Worked across engineering, architecture, product planning, marketing, Microsoft,
 * Influenced Intel and Microsoft architecture leadership on infrastructure offload strategies for Windows Server and Azure.
 * Led enablement of **Azure Linux on Intel IPU embedded ARM cores**, including driver architecture, internal RPC interfaces, feature roadmaps, and productization strategy.
 * Created and evaluated architectures for new Windows networking capabilities including NDIS Poll Mode, RSSv2, interrupt architecture, PTPv2, UDP Segmentation, and QUIC offloads.
-* Collaborated directly with Microsoft architects on acceleration of **Windows Server networking, SDN, and NFV** technologies.
-* Drove Windows Server adoption of the NetAdapterCx networking framework across Intel Ethernet products.
+* Advised directly with Microsoft architects on acceleration of **Windows Server networking, SDN, and NFV** technologies.
 * Led Azure Local enablement across Intel Ethernet and Server organizations.
 
 **Developer Productivity, Tooling & Organizational Leverage**
 
-* Drove architecture and collaboration across multiple engineering organizations to create reusable networking abstractions and common software implementations rather than product-specific solutions.
-* Created a long-running, multi-OS **silicon validation and debug tools architecture** spanning Intel Ethernet products.
+* Created a long-running, multi-OS **silicon validation and debug tools architecture** spanning 20 years of Intel Ethernet products.
 * Led adoption of generative AI engineering tools across a **4,000-person business unit**, reaching 80% adoption and personally delivering GitHub Copilot training to engineering teams.
-* Drove software legal-compliance automation and release processes across the Intel Ethernet organization.
+* Defined and drove software legal-compliance automation and release processes across the Intel Ethernet organization. Represented software teams as the legal subject matter expert on internal reviews and discussions with Intel Legal attorneys.
 
 **Industry & Open Source Leadership**
 
@@ -77,7 +78,7 @@ Managed a **10-person software engineering team** responsible for networking and
 * Led delivery of Intel Ethernet E810 100GbE Windows drivers, including integration of RDMA capabilities into the Windows Server ecosystem.
 * Drove **DPDK on Windows**, delivering the native NetUIO pass-through driver to Microsoft.
 * Managed delivery and planning for Intel QuickAssist Technology (QAT) cryptographic and compression capabilities on Windows.
-* Collaborated with Microsoft on Packet Direct provider interfaces for accelerated Ethernet packet processing.
+* Influenced Microsoft on Packet Direct provider interfaces for accelerated Ethernet packet processing.
 * Coached engineers toward greater technical ownership while maintaining hands-on involvement in architecture and implementation.
 
 ### Software Engineer / Architect / Technologist
