@@ -8,11 +8,11 @@ Portland, OR | [milespenner@gmail.com](mailto:milespenner@gmail.com) | 503-317-9
 
 Hands-on engineering leader with **25+ years building software, leading engineering teams, and developing technical leaders** across systems, networking, operating systems, and hardware/software platforms.
 
-I combine deep engineering expertise with a passion for **multiplying the effectiveness of other engineers**: turning ambiguous problems into clear technical direction, coaching engineers toward greater ownership, building strong technical leaders, and creating architectures and tools that allow teams to move faster.
+I combine deep engineering expertise with a passion for **multiplying the effectiveness of other engineers**: turning ambiguous problems into clear technical direction, coaching engineers toward greater ownership, building strong technical leaders, and creating solutions that allow teams to move faster.
 
 Experienced leading both through **formal management and technical influence**, including management of a 10-person engineering team, development of technical-leader pipelines across an 800+ engineer organization, executive-level technical strategy, and cross-company engineering initiatives.
 
-Still an active engineer and architect with hands-on experience in **C/C++, kernel development, networking, distributed systems interfaces, developer tooling, and hardware/software architecture**.
+Active engineer and architect with hands-on experience in **C/C++, kernel development, networking, distributed systems interfaces, developer tooling, and hardware/software architecture**.
 
 ### What I Bring
 
@@ -51,7 +51,7 @@ Worked across engineering, architecture, product planning, marketing, Microsoft,
 * Led enablement of **Azure Linux on Intel IPU embedded ARM cores**, including driver architecture, internal RPC interfaces, feature roadmaps, and productization strategy.
 * Created and evaluated architectures for new Windows networking capabilities including NDIS Poll Mode, RSSv2, interrupt architecture, PTPv2, UDP Segmentation, and QUIC offloads.
 * Collaborated directly with Microsoft architects on acceleration of **Windows Server networking, SDN, and NFV** technologies.
-* Drove Windows Server adoption of the **NetAdapterCx** networking framework across Intel Ethernet products.
+* Drove Windows Server adoption of the NetAdapterCx networking framework across Intel Ethernet products.
 * Led Azure Local enablement across Intel Ethernet and Server organizations.
 
 **Developer Productivity, Tooling & Organizational Leverage**
@@ -66,8 +66,6 @@ Worked across engineering, architecture, product planning, marketing, Microsoft,
 * Elected to the **Open Programmable Infrastructure Technical Steering Committee**, representing Intel in cross-platform open-source infrastructure software.
 * Contributed to industry architecture and standards efforts involving networking, infrastructure processing, and hardware/software interfaces.
 
----
-
 ### Engineering Manager
 
 **2015 – 2018 | Intel Corporation**
@@ -76,13 +74,11 @@ Managed a **10-person software engineering team** responsible for networking and
 
 * Led engineers responsible for Intel Server Ethernet driver development across Windows Server and Client operating systems.
 * Established engineering priorities, planning, resource allocation, and execution across multiple concurrent technical initiatives.
-* Led delivery of Intel Ethernet **E810 100GbE** Windows drivers, including integration of RDMA capabilities into the Windows Server ecosystem.
+* Led delivery of Intel Ethernet E810 100GbE Windows drivers, including integration of RDMA capabilities into the Windows Server ecosystem.
 * Drove **DPDK on Windows**, delivering the native NetUIO pass-through driver to Microsoft.
 * Managed delivery and planning for Intel QuickAssist Technology (QAT) cryptographic and compression capabilities on Windows.
-* Collaborated with Microsoft on **Packet Direct** provider interfaces for accelerated Ethernet packet processing.
+* Collaborated with Microsoft on Packet Direct provider interfaces for accelerated Ethernet packet processing.
 * Coached engineers toward greater technical ownership while maintaining hands-on involvement in architecture and implementation.
-
----
 
 ### Software Engineer / Architect / Technologist
 
@@ -106,8 +102,6 @@ Progressively responsible for software engineering, architecture, technical lead
 * Drove identification and development of software engineers into **technical leaders and Principal Engineers**.
 * Created reusable, layered software architectures spanning multiple operating systems and hardware generations.
 * Led architecture across engineering teams where success depended on influence, technical credibility, and collaboration rather than direct reporting relationships.
-
----
 
 # TECHNICAL EXPERTISE
 
@@ -158,8 +152,6 @@ Progressively responsible for software engineering, architecture, technical lead
 * Azure / Azure Linux
 * Programmable Infrastructure
 
----
-
 # EDUCATION
 
 **Master of Science, Computer Science**
@@ -167,8 +159,6 @@ University of Idaho
 
 **Bachelor of Science, Computer Science**
 Washington State University
-
----
 
 # SELECTED PATENTS & INDUSTRY CONTRIBUTIONS
 
