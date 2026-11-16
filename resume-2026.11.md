@@ -2,18 +2,18 @@
 
 Portland, OR | [milespenner@gmail.com](mailto:milespenner@gmail.com) | 503-317-9957 | https://www.linkedin.com/in/miles-penner/
 
-**Engineering Leader | Ethernet I/O & Systems Architect**
+**Engineering Leader | Systems Architecture | Networking & Cloud Infrastructure**
 
 ## Summary
 
-Engineering leader and systems architect with 25+ years designing and delivering software across Ethernet, I/O, operating systems, and embedded platforms. Combines hands-on kernel, driver, and hardware/software architecture experience with a record of leading teams, developing technical leaders, and shaping product strategy with engineering organizations and ecosystem partners.
+Engineering leader and systems architect with 25+ years of experience shaping software strategy and delivering complex systems across Ethernet, I/O, operating systems, and embedded platforms. Combines deep kernel, driver, and hardware/software architecture expertise with experience leading engineering teams, developing technical leaders, and driving cross-company initiatives with major technology partners. Proven ability to align engineering execution and platform strategy with hyperscaler requirements, emerging markets, and evolving infrastructure technologies.
 
 ## Leadership Highlights
 
-- Led a 10-engineer software organization responsible for delivery of multiple Windows networking and hardware acceleration initiatives, including engineering execution, resource planning, and cross-functional product delivery.
-- Established and cultivated strategic engineering partnerships with Microsoft architecture and platform organizations over multiple decades, influencing Windows Server and Azure infrastructure direction while aligning Intel Ethernet technologies with evolving hyperscaler and datacenter requirements.
-- Drove technical-leader development across an 800+ engineer organization, contributing to the development of more than 20 technical leaders.
-- Led organizational adoption of generative AI engineering tools across a 4,000-person business unit, achieving 80% adoption through engineering enablement, GitHub Copilot training, and organizational change initiatives.
+- Led a 10-engineer software engineering team responsible for multiple Windows networking and hardware acceleration initiatives, overseeing engineering execution, resource planning, and cross-functional product delivery.
+- Established and cultivated strategic engineering partnerships with Microsoft's architecture and platform organizations over multiple decades, influencing Windows Server and Azure infrastructure direction while aligning Intel Ethernet technologies with evolving hyperscaler and data center requirements.
+- Led a technical-leadership development initiative across an 800+ engineer organization, evaluating and identifying more than 20 engineers with potential to take on expanded technical leadership roles.
+- Led organizational adoption of generative AI engineering tools across a 4,000-person business unit, achieving 80% employee adoption through engineering enablement, GitHub Copilot training, and organizational change initiatives.
 - Established software legal-compliance processes across Intel Ethernet product releases, partnering with Intel Legal on software licensing, contractual requirements, and product compliance strategy.
 - Recognized with Intel Mentor of the Year (2019) based on blind feedback from multiple mentees spanning over a decade.
 
@@ -23,32 +23,35 @@ Engineering leader and systems architect with 25+ years designing and delivering
 **Intel Corporation, March 2022 – April 2026**  
 Led technical strategy and architecture across Intel Ethernet product lines, spanning kernel drivers, requirements, roadmaps, and product direction.
 
-- Influenced Intel and Microsoft architecture leaders on infrastructure offload for Windows Server; led Azure Linux enablement on Intel IPU embedded ARM cores, including driver architecture, internal RPC interfaces, and product roadmaps. Results included establishment of Intel Ethernet as a design in opportunity for Microsoft near-edge telecommunications customers.
-- Drove cross-company Windows Server and Azure Local enablement for Intel Ethernet opening new marketing channels for Edge compute and infrastructure.
-- Collaboration on Microsoft NetAdapterCx and alignment of Ethernet certification requirements with NIC usage. Resulting in a low-end Edge compute segment for Azure Local and future strategic alignment of Microsoft's networking model for AI and user-mode networking use cases.
-- Defined software, firmware, security, and compliance plans for an Ethernet spinout reducing the cost of acquition by over 50 percent.
-- Represented Intel on the Open Programmable Infrastructure Technical Steering Committee.
+- Influenced Intel and Microsoft architecture leaders on Windows Server infrastructure offload strategy and led Azure Linux enablement on Intel IPU embedded ARM cores, defining driver architecture, internal RPC interfaces, and product roadmaps. Established an Intel Ethernet design-in opportunity in Microsoft's near-edge telecommunications customer segment.
+- Drove cross-company Windows Server and Azure Local enablement for Intel Ethernet, expanding platform compatibility and creating new market opportunities in edge computing and telecommunications infrastructure.
+- Collaborated with Microsoft on NetAdapterCx and aligned Ethernet certification requirements with NIC deployment models, enabling additional Azure Local edge-computing opportunities while supporting Microsoft's longer-term networking architecture direction for AI and user-mode networking.
+- Defined software, firmware, security, and compliance strategies for an Ethernet business spinout, contributing to a reduction of more than 50% in associated separation and transition costs.
+- Represented Intel on the Open Programmable Infrastructure (OPI) Technical Steering Committee, contributing to Intel's submission of the committee's first published open-source blueprint for firewall offload.
 
 ### Ethernet Software Technologist
 **Intel Corporation, 2018 – March 2022**  
 Created and evaluated Windows networking architecture and partnered with Microsoft on feature development and productization.
 
-- Designed and advanced NDIS Poll Mode, RSSv2, interrupt architecture, PTPv2, UDP Segmentation, and QUIC offloads across Intel Ethernet products.
+- Designed and advanced Windows networking architecture, features, and offloads across Intel Ethernet products, including NDIS Poll Mode, RSSv2, interrupt architecture, PTPv2, UDP Segmentation, and QUIC offloads.
 - Collaborated with Microsoft architects on Windows Server networking acceleration, SDN/NFV, and Azure Local enablement.
 
 ### Engineering Manager
 **Intel Corporation, 2015 – 2018**  
-Managed a 10-engineer team delivering Windows networking and acceleration software; set priorities, budgets, and plans.
+Managed a 10-engineer software team delivering Windows networking and acceleration software; established priorities, budgets, and execution plans while managing delivery against internal and external stakeholder commitments.
 
-- Led delivery of Intel Server Ethernet drivers, including 100GbE E810 drivers and RDMA integration for Windows Server.
-- Drove DPDK on Windows, delivering the native NetUIO pass-through driver to Microsoft; also managed Windows delivery planning for Intel Quick Assist Technology.
+- Grew the engineering team through hiring and managed annual performance reviews, employee development, and career progression.
+- Expanded team capabilities and technical scope to include chipset cryptography and compression accelerator technologies.
+- Led delivery of Intel Server Ethernet drivers, including the initial release of the 100GbE E810 drivers with RDMA integration for Windows Server.
+- Drove DPDK enablement on Windows, delivering the native NetUIO pass-through driver to Microsoft; also managed Windows delivery planning for Intel Quick Assist Technology.
 - Collaborated with Microsoft on Packet Direct provider interfaces for accelerated Ethernet packet processing.
+
 
 ### Software Engineer, Architect & Technologist
 **Intel Corporation, 1999 – 2015**  
 Architected Ethernet and I/O software across operating systems, silicon, and product generations.
 
-- Architected Thunderbolt security software and firmware across Windows, Linux, and Apple platforms; led device-attach and peer-to-peer networking security, and supervised three engineers developing Windows drivers and applications.
+- Architected Thunderbolt security software and firmware across Windows, Linux, and Apple platforms, leading device-attach and peer-to-peer networking security architecture and supervising three engineers developing Windows drivers and applications.
 - Designed I/O acceleration and data-movement software, including chipset DMA offload and NUMA-aware Direct Cache Access; contributed to PCI Express TLP Processor Hints.
 - Architected Windows networking capabilities including RSS, TCP Offload, RSC, NUMA-aware networking, and Data Center Bridging; expanded RDMA adoption through Network Direct collaboration.
 - Enabled Switch Abstraction Interface (SAI) for Windows-based Top-of-Rack switches and built multi-OS silicon-validation and debug-tool architectures.
